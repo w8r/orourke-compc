@@ -1,0 +1,5 @@
+inpolyhedron.c	Code for point-in-polyhedron.
+Makefile	make file for compiling with gcc.
+i.8		Sample input, n=8 vertices (cube).
+i.400		Sample input, n=400 vertices.
+README.inpolyhedron	This file.

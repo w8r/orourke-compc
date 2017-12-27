@@ -1,0 +1,4 @@
+mink.c		Code for computing Minkowski convolution.
+Makefile	make file to compile with gcc.
+i.0-5		Sample input files
+README.mink	This file.

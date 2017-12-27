@@ -1,0 +1,5 @@
+arm.c	i	Code from Chapter 8.
+Makefile	make file to compile with gcc.
+i.4		Sample input.
+o.4		Output on i.4.
+README.arm	This file.

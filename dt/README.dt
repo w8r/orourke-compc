@@ -1,0 +1,7 @@
+dt2.c 		O(n^2) code.
+dt4.c		O(n^4) code.
+macros.h 	List macros used by dt2.c.
+Makefile 	make file for gcc compilation.
+i.10 		Sample input file of n=10 points.
+i.100 		Sample input file of n=100 points.
+README.dt	This file.

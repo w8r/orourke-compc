@@ -1,0 +1,5 @@
+inpoly.c	Code for point-in-polygon problem.
+Makefile	make file to compile with gcc.
+i.28		Example from Chapter 7.
+i.28.verts	Vertex queries.
+README.inpoly	This file.

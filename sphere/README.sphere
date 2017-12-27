@@ -1,0 +1,20 @@
+To uncompress and untar the files:
+
+gunzip sphere.tar.gz
+tar -xvf sphere.tar
+
+This will leave you with three files:
+
+README		this file
+sphere.c:	generate random points on a sphere (or ellipsoid)
+cube.c:		generate random points in a cube (or box)
+spiral.c:	generate points uniformly distribted on a sphere (or ellipsoid)
+
+To compile them under Unix:
+
+make sphere:	compiles sphere.c
+make cube:	compiles cube.c
+make spiral:	compiles spiral.c
+
+Questions to orourke@cs.smith.edu
+

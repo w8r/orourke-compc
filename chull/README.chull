@@ -1,0 +1,4 @@
+chull.c		The C source code (~1000 lines). Read leading comment.
+Makefile	gcc compile commands
+i.cube		Sample input file; run with, e.g.: chull < i.cube
+README.chull	This file.

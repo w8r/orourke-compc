@@ -1,0 +1,7 @@
+tri.c		Triangulation code, O(n^2).
+macros.h	List processing macros, for tri.c
+comb.c		Generates comb polygons.
+Makefile	Compiles the C code; default tri.c.
+i.*		Sample input files; i.18 is Fig. 1.27 in Chapter 1.
+		E.g.: % tri < i.snake > o.snake
+README.tri	This file.

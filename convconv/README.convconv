@@ -1,0 +1,7 @@
+convconv.c		Code from Chapter 7.
+Makefile		make file for gcc compiling.
+i.two			Sample input files.
+i.amy.3
+i.house
+i.sqsq
+README.convconv 	This file.

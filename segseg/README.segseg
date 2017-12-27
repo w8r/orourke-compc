@@ -1,0 +1,3 @@
+segseg.c	Code for intersecting two segments.
+Makefile	make file for compiling with gcc.
+README.segseg	This file.
